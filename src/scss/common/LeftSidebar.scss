@@ -1,0 +1,26 @@
+#left_sidebar {
+  height: 85vh;
+
+  .top {
+    .nav_link {
+      text-decoration: none;
+      font-weight: 400;
+      color: black;
+      margin-top: 10px;
+    }
+    .box {
+      background-color: rgb(69, 224, 69);
+      padding: 10px;
+      margin-right: 5px;
+      font-weight: bolder;
+      border-radius: 0px 5px;
+      color: white;
+    }
+    .selected {
+        color: rgb(245, 45, 45);
+      .box {
+        background-color: rgb(192, 21, 49);
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+#right_sidebar {
+  height: 100vh;
+
+  .selected{
+      color: rgb(218, 2, 2)
+  }
+
+  .nav_link {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: start;
+    color: rgb(174, 174, 174);
+  }
+
+  .logout_btn {
+      padding-top: 300px;
+  }
+}

@@ -1,0 +1,43 @@
+#group_header {
+  .dashboard_btn {
+    background-color: rgb(3, 104, 25);
+    padding: 15px 30px;
+    border-radius: 0px 20px;
+    color: white;
+    font-weight: 700;
+  }
+
+  .box {
+    padding: 30px 10px;
+    border-radius: 0px 30px;
+  }
+  .box:hover {
+    background-color: #e7e7e7;
+  }
+
+  .my_icon {
+    margin: 0px 15px;
+    font-size: 30px;
+  }
+
+  .header_bottom {
+    margin-top: 40px;
+    font-weight: 700;
+    .csv_btn {
+      padding: 15px 50px;
+      border-radius: 0px 30px;
+      margin: 0 10px;
+    }
+    .pdf_btn {
+      padding: 15px 50px;
+      border-radius: 0px 30px;
+      margin: 0 10px;
+    }
+    .add_group_btn {
+      background-color: rgb(3, 104, 25);
+      padding: 15px 30px;
+      border-radius: 0px 20px;
+      color: white;
+    }
+  }
+}
